@@ -4,6 +4,7 @@
  * Date created: 06 November 2018
  * Arduino IDE version: 1.8.5
  * Operating System: Windows 10 Pro
+ * Tutorial Link: https//arduinobasics.blogspot.com/
  * 
  * Description: 
  * A simple program written for the Rainbowduino 4x4x4 RGB LED cube (by Seeedstudio), 
