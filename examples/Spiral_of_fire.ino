@@ -1,4 +1,5 @@
 /*=============================================
+* Project: LED Cube - Spiral of Fire Animation
 * Author: Scott C
 * Web Page: https://arduinobasics.blogspot.com
 * Date: 17 Nov 2018
