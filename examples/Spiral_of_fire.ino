@@ -1,3 +1,9 @@
+/*=============================================
+* Author: Scott C
+* Web Page: https://arduinobasics.blogspot.com
+* Date: 17 Nov 2018
+===============================================*/
+
 #include <Rainbowduino.h>
 #include <FastLED.h>
 
