@@ -1,4 +1,5 @@
 /*=============================================
+* Project: LED cube - Circle Motion 2
 * Author: Scott C
 * Web Page: https://arduinobasics.blogspot.com
 * Date: 17 Nov 2018
