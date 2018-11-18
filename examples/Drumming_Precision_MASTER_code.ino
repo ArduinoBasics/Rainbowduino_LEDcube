@@ -56,7 +56,7 @@ void setup() {
 /* --------------------------------------------------------------------------
  *  LOOP:
  *  Listen for the drum kit to send a MIDI note #38 via Serial communication
- *  When MIDI note #38 is received:
+ *  When MIDI note #38 is received the first time:
  *   - Turn on the built-in LED
  *   - Send the note to the LED cube via I2C
  *  When MIDI note #38 is received the second time:
