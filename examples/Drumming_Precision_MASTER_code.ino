@@ -11,8 +11,6 @@
  * It is designed as an interface between the electronic Drum Kit and the Rainbowduino LED cube.
  * It receives MIDI messages from the drum kit and passes them through to the LED cube using I2C.
  * 
- * Acknowledgements:
- * 
  * -------------------------------------------------------------------------   
  * LIBRARIES:
  * Wire.h library is used for I2C communication between the Arduino and the Rainbowduino LED cube             
